@@ -30,10 +30,10 @@ necessárias para o desenvolvimento de uma API, visando isso, o escolhi para sol
 
 ## 2 - Bônus
 
-- Deploy :white_check_mark:
-- Acesso admin 	:x:
+- Deploy 
+- Acesso admin 	
 - Endpoint para alterar senha com confirmação da senha atual **OK**
-- Cadastro via API do google 	:x:
+- Cadastro via API do google 
 - Seed **OK**
 
 ## 3 - Regra de negócio
