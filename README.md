@@ -103,9 +103,6 @@ Algumas variáveis estão sem valores, esses valores foram enviados em um DOC ju
 é necessário substituir essas variáveis, pelas que estão nesse arquivo recebido via email, para que funcione tudo como deveria
 (upload de imagem, envio de email e conexão com banco de dados).
 
-As variáveis relacionadas ao banco de dados, são as únicas que podem ser alteradas caso desejem
-utilizar um banco de dados próprio, porém já deixei um banco criado para vocês apontarem e rodarem as migrations, seeders e usuarem, podem
-utiliza-lo.
 ### 5 - Migrations e Seeders
 
 Primeiramente rodar migrations
@@ -159,20 +156,10 @@ com o projeto rodando, podemos visualizar documentação do **swagger** no segui
 http://localhost:8000/api/documentation
 ```
 
-agora podemos rodar os testes para validar que o setup foi bem sucedido,  execulte o comando:
+agora podemos rodar os testes para validar que o setup foi bem sucedido, execute o comando:
 
 ```shell
 ./vendor/bin/phpunit 
 ```
 
-pronto agora o projeto está 100% configurado e basta usar e abusar dos EP para testar as funcionalidade xD
-
-Observações: O upload de arquivo pelo swagger no ambiente de deploy, está acusando erro 500, não consegui investigar o 
-suficiente para resolver,  porém localmente, está funcionando tudo ok. 
-
-## 7 - Links
-
-[Deploy -> https://capyba-challenge.herokuapp.com]()
-
-[Documentação SWAGGER da API]()
 
