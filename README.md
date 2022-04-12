@@ -99,7 +99,7 @@ composer install
 
 Existe um arquivo na raiz do projeto chamado `.env.example`, basta renomeá-lo para apenas `.env` ou criar uma cópia dele.
 
-Algumas variáveis estão sem valores, esses valores foram enviados em um DOC junto com email de entrega do desafio,
+Algumas variáveis estão sem valores, esses valores foram enviados em um DOC junto com a entrega do desafio,
 é necessário substituir essas variáveis, pelas que estão nesse arquivo recebido via email, para que funcione tudo como deveria
 (upload de imagem, envio de email e conexão com banco de dados).
 
