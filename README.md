@@ -80,13 +80,7 @@ Como não tenho conhecimento em qual SO irá ser execultado, deixarei o link par
 [Instalar COMPOSER](https://getcomposer.org/doc/00-intro.md)
 
 ### 2 - Baixar o projeto para maquina
-Pode ser feito o download do ZIP pelo proprio github, ou pelo terminal via linha de
-comando, e entrar na pasta do projeto
-
-```sh 
-git clone https://github.com/lmz2k/challenge-capyba-backend.git
-
-cd ./challenge-capyba-backend
+Pode ser feito o download do ZIP pelo proprio github, ou pelo terminal via linha de comando.
 ```
 
 ### 3 - Instalar dependencias
